@@ -1,0 +1,5 @@
+zmienne mają nazwy https://www.kaggle.com/datasets/cdc/national-health-and-nutrition-examination-survey?select=questionnaire.csv i te nazwy może by przekształcić jakoś na te opisy co tam są, jakby ktoś miał je wyświetlać. jakoś może zmapować te dane ze strony internetowej?
+
+
+
+pomieszanie i dopasowanie danych, które mam 2013-2014 z innymi latami tych badań
