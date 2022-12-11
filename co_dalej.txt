@@ -1,0 +1,5 @@
+co zrobie jak się wykopię?
+spróbuje coś zaselectiować, znaczy find zrobić i sprawdzić jak działa ta lista w medications
+czym ona jest dla mongodb
+jak będzie git, w sensie, że to będzie dozwolone w mongo -> to dodam te listy do reszty żeby dać możliwość tej strukturze obsługiwać więcej wpisów dla jednego pacjenta, dla konkretnego parametru
+w sumie to może jest na to jakieś lepsze rozwiązanie niż taka prosta lista?
